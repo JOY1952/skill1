@@ -1,0 +1,50 @@
+body{
+    margin: 50px;
+}
+
+h1
+{
+    color: #34315D;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    
+}
+.para
+{
+    font-family:'Hind Siliguri', sans-serif ;
+    float: right;
+    width: 50%;
+    text-align: justify;
+    margin-top: 10px;
+    
+}
+h2{
+    color: #34315D; 
+}
+h3{
+    color: #FF284F
+    
+}
+.right
+{
+    width: 50%;
+    float: left;
+    margin-top: 45px;
+}
+button
+{
+    background:#3BC57A;
+    font-size: 13px;
+    color: azure;
+    height: 35px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+h4, p{
+    color: dimgrey;
+}
+body
+{
+ font-family: 'Hind Siliguri', sans-serif;;
+}
